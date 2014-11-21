@@ -1,0 +1,16 @@
+json.h
+json.cpp
+data_transmit.h
+data_transmit.cpp
+light.h
+light.cpp
+Uswitch.h
+Uswitch.cpp
+SenvaCurrent.h
+SenvaCurrent.cpp
+general.h
+sensors.ino
+allduino.h
+allduino.cpp
+tcpclient.h
+tcpclient.cpp
